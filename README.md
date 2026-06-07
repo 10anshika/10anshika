@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Anshika%20Mishra&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20AI%20systems%20that%20create%20real-world%20impact&descAlignY=58&descSize=17&descColor=c9d1d9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Anshika%20Mishra&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Builder&descAlignY=58&descSize=18&descColor=c9d1d9" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=Hey+there!+I'm+Anshika+Mishra+%F0%9F%91%8B;AI+%26+ML+Engineer+%7C+Pantech+University;Blockchain+DApp+Builder+on+Aptos;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Unsupervised+Learning+%3C3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=750&lines=B.Sc.+Data+Science+%40+SPPU+%7C+CGPA+8.61;Ex+Data+Science+Intern+%40+Ernst+%26+Young+LLP;Time-Series+%7C+NLP+%7C+Multi-Agent+AI+Systems;Building+production-grade+ML+pipelines+%F0%9F%9A%80;Unsupervised+Learning+%3C3)](https://git.io/typing-svg)
 
 <br/>
 
@@ -10,44 +10,48 @@
 &nbsp;
 <a href="https://github.com/10anshika?tab=followers"><img src="https://img.shields.io/github/followers/10anshika?label=Followers&style=for-the-badge&color=7C3AED&labelColor=1e1b4b" /></a>
 &nbsp;
-<img src="https://img.shields.io/badge/Open%20to-Internships-22c55e?style=for-the-badge&labelColor=1e1b4b" />
+<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Research-22c55e?style=for-the-badge&labelColor=1e1b4b" />
 &nbsp;
-<img src="https://img.shields.io/badge/she%2Fher-blueviolet?style=for-the-badge&labelColor=1e1b4b" />
+<img src="https://img.shields.io/badge/she%2Fher-A78BFA?style=for-the-badge&labelColor=1e1b4b" />
 
 </div>
 
 ---
 
-## 🧠 Who Am I?
+## 🧠 About Me
 
 <img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 ```python
 class AnshikaMishra:
 
-    name       = "Anshika Mishra"
-    username   = "10anshika"
-    pronouns   = "she/her"
-    university = "Pantech University"
-    bio        = "Unsupervised Learning <3"
+    name        = "Anshika Mishra"
+    pronouns    = "she/her"
+    location    = "Pune, Maharashtra"
+    university  = "Savitribai Phule Pune University (SPPU)"
+    degree      = "B.Sc. Data Science  |  CGPA: 8.61 / 10"
+    email       = "anshikamishra.25000@gmail.com"
 
-    interests = [
-        "🤖  Machine Learning & Deep Learning",
-        "👁️   Computer Vision (OpenCV, EasyOCR)",
-        "🗣️  NLP & Generative AI",
-        "⛓️  Blockchain (Aptos / Move language)",
-        "📊  Data Science & Analytics",
-        "🚀  AI Agents & LLM Applications",
+    experience  = [
+        "📊 Data Science Intern @ Ernst & Young LLP",
+        "🤖 AI Virtual Intern @ Infosys Springboard",
+        "🔬 Project Contributor @ Dept. of Tech, SPPU",
     ]
 
-    current_focus = [
-        "Advanced ML & Feature Engineering",
-        "Generative AI — Gemini, LLM fine-tuning",
-        "MLOps & Production Deployment",
-        "AI Agents & Agentic Workflows",
+    strengths   = [
+        "End-to-end ML pipeline design",
+        "Time-series forecasting (ARIMA, Prophet)",
+        "NLP & LLM integration (FinBERT, Gemini, LLaMA)",
+        "Multi-agent AI systems (LangGraph, ReAct)",
+        "Reproducible, production-grade Python workflows",
     ]
 
-    hackathons = ["Aptos Blockchain Hackathon 🏆"]
+    achievements = [
+        "🏅 Elite Certificate — NPTEL Python for Data Science",
+        "🎓 Selected — Infosys Springboard Pragati Cohort 3",
+        "💎 SheFi Scholar — Cohort 1",
+        "🏛️  Workshop @ IIT Bombay — AI for Professionals",
+    ]
 
     motto = "Explore patterns → Build systems → Create impact"
 ```
@@ -56,116 +60,194 @@ class AnshikaMishra:
 
 ---
 
+## 💼 Professional Experience
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Data Science Intern
+**Ernst & Young LLP** · Business Consulting & Supply Chain Ops
+`Dec 2025 – Mar 2026` · EY Asterisk, Pune
+
+- Built the **Archetype Engine** — 157 market segments × 3 retail channels; replaced 2+ weeks of manual analyst work with a **sub-15-min reproducible pipeline** at 85–95% accuracy
+- Designed **Pearson-correlation clustering** on time-series trend vectors for automated price archetype discovery (greedy Auto-K, 70% dissimilarity threshold)
+- Delivered demand forecasting pipelines + analyst-ready Excel pivot reports with YoY comparisons via **Papermill 10-notebook orchestration**
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `Papermill` `Excel`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Virtual Intern
+**Infosys Springboard** · Autonomous Cognitive Engine
+`Dec 2025 – Feb 2026`
+
+- Built a **multi-agent autonomous framework** using LangGraph (Python 3.11) with a **ReAct reasoning loop**, dynamic TODO-based task planner, and virtual file system for long-horizon tasks
+- Implemented **supervisor–subagent delegation** (Summarisation, Web Search agents) with full multi-step run tracing via **LangSmith**
+
+`LangGraph` `LangSmith` `Python 3.11` `ReAct` `Multi-Agent`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🔬 Project Contributor — Dept. of Technology, SPPU `Dec 2024`
+Automated processing and validation of **10,000+ records** for a Guinness World Record attempt — achieved **99% data accuracy** using Python data-cleaning and EDA scripts under a tight deadline.
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🚀 Featured Projects
 
-### ⛓️ &nbsp;[Blockchain-Based Community Micro-Insurance DApp](https://github.com/10anshika/Blockchain-based-community-micro-insurance-dapp)
-> *Built at the Aptos Blockchain Hackathon — 24 hours, one global problem, one breakthrough.*
+### 📈 [EarningsEcho — Earnings Call NLP Intelligence Tool](https://github.com/10anshika/EarningsEcho)
+> *FinBERT · XGBoost · MLflow · SHAP · Streamlit · SEC EDGAR*
 
-A blockchain-powered **micro-insurance platform on Aptos** targeting underserved populations earning $2–5/day. Eliminates intermediaries through democratic governance.
+Scored **264 earnings transcripts across 40 S&P 500 tickers** — built a 3-layer weighted NLP pipeline achieving **75% classification accuracy** and a **2.17 Signal Sharpe Ratio**.
 
-`Move` `Python` `Streamlit` `Aptos` `Smart Contracts`
+- 🧠 3-layer pipeline: 40% hedging detection · 35% FinBERT sentiment · 25% vocabulary signals
+- ⚡ XGBoost ensemble (WEIGHTS_V2) → **+2.83pp accuracy improvement**; validated across 10 ablation experiments
+- 🔍 Identified hedging as critical signal with **18.5pp source-quality gap** (Motley Fool vs SEC EDGAR)
+- 📊 Streamlit dashboard with **MLflow tracking** + SHAP explainability + percentile-based signals
 
-- 📜 Move smart contracts for trustless fund pooling & payouts
-- 🗳️ Community governance via on-chain voting
-- 💸 Automated, instant claim processing
-- 🔍 Fully transparent, auditable transactions on-chain
-
-![Stars](https://img.shields.io/github/stars/10anshika/Blockchain-based-community-micro-insurance-dapp?style=flat-square&color=7C3AED) &nbsp; ![Language](https://img.shields.io/badge/Move-51%25%20%7C%20Python-48%25-blueviolet?style=flat-square)
+`Python` `FinBERT` `XGBoost` `MLflow` `SHAP` `Streamlit` `yfinance` `SEC EDGAR`
 
 ---
 
-### 🤖 &nbsp;[Samadhan-AI](https://github.com/10anshika/Samadhan-AI)
-> *React + TypeScript + Google Gemini — intelligent form assistance for citizens.*
+### 🤖 [Codeallex — AI Software Engineer Agent](https://github.com/10anshika/Codeallex)
+> *LangGraph · FastAPI · Groq/LLaMA · Pinecone · Redis · SSE*
 
-A production-minded **intelligent bureaucracy navigator** that accepts form images and uses Google Gemini Vision to provide structured field guidance or JSON validation — making government services accessible to everyone.
+Production-grade **5-agent LangGraph pipeline**: Task Planner → Code Generator → Tester → Debugger → Reviewer — autonomously plans, generates, tests, and reviews code end-to-end.
 
-`TypeScript` `React` `Vite` `Google Gemini` `Zod` `GitHub Actions`
+- ⚡ Real-time **SSE streaming** + **Pinecone** vector cache for code-pattern reuse
+- 🔄 Redis pub/sub message queue with in-memory fallback + retry with exponential backoff (3 attempts)
+- 🌐 Full **FastAPI + Swagger UI** REST API (5 endpoints incl. SSE stream + session management)
+- 🛡️ Code review scoring: security · performance · maintainability
 
-- 📸 Drag-and-drop image upload with validation & compression
-- 🧠 Gemini LLM integration for field guidance + JSON validation modes
-- 🔒 Runtime schema validation (Zod), safe JSON parsing, retries/backoff
-- ⚙️ CI/CD via GitHub Actions, production-grade architecture
-
-![Stars](https://img.shields.io/github/stars/10anshika/Samadhan-AI?style=flat-square&color=7C3AED) &nbsp; ![Language](https://img.shields.io/badge/TypeScript-98%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
+`LangGraph` `FastAPI` `Groq LLaMA-70B` `Pinecone` `Redis` `SSE` `Python`
 
 ---
 
-### 🚗 &nbsp;[ANPR — Automatic License Plate Recognition](https://github.com/10anshika/Automatic-license--plate-recognition-system)
-> *Computer Vision pipeline: 85–95% accuracy, ~0.3s per image.*
+### 👩‍💼 [Recruit IQ — Autonomous Hiring AI Platform](https://github.com/10anshika/RecruitIQ)
+> *Flask · LangGraph · SQLAlchemy · TF-IDF · Gmail API · Celery*
 
-An end-to-end **ANPR system** using OpenCV for image processing and EasyOCR for deep-learning-based OCR — handles varied lighting, orientations, and plate formats.
+Full-stack autonomous recruiting system with **4-agent LangGraph architecture** — ingests candidates, scores, tiers, and sends Gmail-based recruiter loops via OAuth2 automation.
 
-`Python` `OpenCV` `EasyOCR` `PyTorch` `Jupyter Notebook`
+- 📊 Weighted NLP scoring: TF-IDF similarity + answer quality + GitHub scoring → FastTrack / Standard / Review / Reject tiers
+- 🔁 **Self-learning scoring loop** that updates dynamic weights from hiring outcomes
+- 🛡️ Anti-cheat layer: AI-answer detection + copy-ring clustering (TF-IDF cosine) + suspicious timing flags
+- 🔧 Flask REST API (12 endpoints) + Celery/Redis async queue + full pytest coverage
 
-- 🔍 Bilateral filtering → Canny edge detection → contour analysis pipeline
-- ⚡ Real-time processing (~0.3s/image on CPU; CUDA-ready)
-- 📊 85–95% detection accuracy on clear vehicle images
-- 📓 Interactive Jupyter notebook with step-by-step walkthrough
-
-![Language](https://img.shields.io/badge/Jupyter%20Notebook-100%25-F37626?style=flat-square&logo=jupyter&logoColor=white)
+`Flask` `LangGraph` `SQLAlchemy` `TF-IDF` `Gmail API` `Celery` `Redis` `Groq`
 
 ---
 
-### ❤️ &nbsp;[Heart Disease Prediction Model](https://github.com/10anshika/Heart-Disease-Prediction-Model-)
-> *Healthcare ML — early cardiovascular risk detection.*
+### 🌡️ [Urban Heat Intelligence & Forecasting Platform](https://github.com/10anshika/Urban-Heat-Intelligence)
+> *XGBoost · Random Forest · SHAP · Google Earth Engine · GeoPandas · K-Means*
 
-An ML pipeline for predicting **cardiovascular disease risk** using clinical data — enabling early intervention and preventive care through intelligent risk scoring.
+End-to-end **geospatial ML platform** predicting Urban Heat Island intensity using satellite + terrain data — deployable for any global city in 5–10 minutes.
 
-`Python` `Scikit-Learn` `Pandas` `NumPy` `Matplotlib` `Jupyter`
+- 🛰️ GEE data ingestion: MODIS/Landsat LST, NDVI, NDBI, ESA WorldCover, SRTM DEM
+- 📍 K-Means UHI zone classification + **Getis-Ord Gi\* hotspot analysis** + SHAP explainability
+- 🗺️ CLI outputs: publication-quality infographics + interactive multi-layer HTML map
+- 🎯 XGBoost predicts Land Surface Temperature with Heat Risk Scores (Low / Medium / High)
 
-- 📊 Feature engineering & clinical data preprocessing
-- 🧪 Multi-model comparison (Logistic Regression, Random Forest, SVM)
-- 📈 Probability-based risk scoring output
-
----
-
-### 🌸 &nbsp;[RituCare](https://github.com/10anshika/RituCare)
-> *AI-powered personalized healthcare & prediction platform.*
-
-An AI-driven **health analytics platform** providing personalized wellness insights and intelligent health monitoring.
-
-`Python` `Jupyter Notebook` `ML`
+`Python` `XGBoost` `Random Forest` `SHAP` `Google Earth Engine` `GeoPandas` `K-Means`
 
 ---
 
-## 🛠️ Tech Stack
+### 🌸 [RituCare — PCOS & Menstrual Health Assistant](https://github.com/10anshika/RituCare)
+> *ARIMA · Prophet · Random Forest · Scikit-learn · Streamlit · Plotly*
+
+Dual-model ML health platform: **ARIMA + Prophet forecasting** (2.3-day MAE) + **Random Forest PCOS classifier** (87.3% accuracy, 0.91 AUC-ROC).
+
+- 🩺 15+ clinical features with cross-validation, stratified sampling, automated imputation
+- 📊 5-module Streamlit platform: period logging · water tracking · risk assessment · analytics · nutrition insights
+- 📈 Interactive Plotly dashboards + CSV export
+
+`ARIMA` `Prophet` `Random Forest` `Scikit-learn` `Streamlit` `Plotly`
+
+---
+
+### ⚙️ [Archetype Engine — Automated Price Segmentation](https://github.com/10anshika/Archetype-Engine)
+> *Pandas · NumPy · Scikit-learn · Pearson Correlation · Papermill*
+
+*Born at EY — open-sourced for the community.*
+Automated price segmentation across **157 retail segments × 3 channels** — replaced 2+ weeks of manual Excel work with a sub-15-minute pipeline.
+
+`Python` `Pandas` `Pearson Clustering` `Papermill` `Excel` `Scikit-learn`
+
+---
+
+## 🛠️ Full Tech Stack
 
 <div align="center">
 
-**Languages**
+**Languages & Databases**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Move](https://img.shields.io/badge/Move-00C2FF?style=for-the-badge&logo=aptos&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-**AI / ML / Data Science**
+**ML / DL / Forecasting**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Prophet](https://img.shields.io/badge/Prophet-0080FF?style=for-the-badge&logo=python&logoColor=white)
+
+**NLP & LLMs**
+
+![LangChain](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/Groq%2FLLaMA-FF4500?style=for-the-badge&logo=openai&logoColor=white)
+![FinBERT](https://img.shields.io/badge/FinBERT-2E86AB?style=for-the-badge&logo=pytorch&logoColor=white)
+
+**Data & Visualization**
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-
-**Frameworks & Tools**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+
+**APIs, Deployment & DevOps**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Tools**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-**Blockchain**
-
-![Aptos](https://img.shields.io/badge/Aptos-00C2FF?style=for-the-badge&logo=aptos&logoColor=white)
-![Move](https://img.shields.io/badge/Move%20Language-1e1b4b?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
 </div>
+
+---
+
+## 🏅 Certifications & Achievements
+
+| 🏆 | Detail |
+|:---:|:---|
+| 🥇 | **Elite Certificate** — Python for Data Science, NPTEL IIT Madras (2025) |
+| 🏛️ | **Workshop** — Fundamentals of AI for Entrepreneurs & Professionals, IIT Bombay (2025) |
+| 🎯 | **Selected** — Infosys Springboard Pragati Cohort 3 |
+| 💎 | **SheFi Scholar** — Cohort 1 |
+| 📜 | **What is Data Science?** — IBM / Coursera |
+| 📊 | **Foundations: Data, Data, Everywhere** — Google Data Analytics Certificate |
+| 🌍 | **German Language (A1)** — Dept. of Foreign Languages, SPPU (2024–25) |
 
 ---
 
@@ -197,11 +279,11 @@ An AI-driven **health analytics platform** providing personalized wellness insig
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![Anshika's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=10anshika&bg_color=0d1117&color=A78BFA&line=7C3AED&point=f472b6&area=true&hide_border=true&area_color=7C3AED)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=10anshika&bg_color=0d1117&color=A78BFA&line=7C3AED&point=f472b6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -221,29 +303,31 @@ An AI-driven **health analytics platform** providing personalized wellness insig
 
 ---
 
-## 🗺️ 2025 Learning Roadmap
+## 🗺️ 2025–26 Learning Roadmap
 
 | Status | Area | Details |
 |:---:|:---|:---|
-| ✅ | Python & ML Fundamentals | Scikit-Learn, Pandas, NumPy, Matplotlib |
-| ✅ | Computer Vision | OpenCV, EasyOCR, image pipelines |
-| ✅ | Blockchain Development | Aptos Move smart contracts, DApp architecture |
-| ✅ | Generative AI Integration | Google Gemini, React + LLM frontend |
-| 🔄 | Advanced ML & Deep Learning | TensorFlow, model optimization |
-| 🔄 | LLM Applications & Fine-tuning | Prompt engineering, RAG, agents |
-| 📅 | MLOps & Deployment | Docker, CI/CD, model serving |
-| 📅 | AI Agents | LangChain, agentic workflows, tool use |
-| 🎯 | Production AI Systems | End-to-end deployment at scale |
+| ✅ | Core ML & Feature Engineering | Scikit-learn, XGBoost, cross-validation, EDA |
+| ✅ | Time-Series Forecasting | ARIMA, Prophet, walk-forward backtesting |
+| ✅ | NLP & Transformers | FinBERT, TF-IDF, sentiment analysis, NER |
+| ✅ | Multi-Agent AI Systems | LangGraph, ReAct, LangSmith, Groq/LLaMA |
+| ✅ | REST APIs & Dashboards | FastAPI, Flask, Streamlit, Plotly |
+| ✅ | Experiment Tracking | MLflow, SHAP explainability |
+| 🔄 | Geospatial ML | GeoPandas, Google Earth Engine, spatial analysis |
+| 🔄 | LLM Fine-tuning & RAG | Hugging Face, vector DBs, Pinecone |
+| 📅 | MLOps & Deployment | Docker, CI/CD, model serving at scale |
+| 📅 | Deep Learning | LSTM, CNN, PyTorch workflows |
+| 🎯 | AI Research Contributions | Open-source, papers, production AI systems |
 
 ---
 
-## 💬 Let's Connect
+## 💬 Connect With Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-10anshika-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/10anshika)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshika%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshika-mishra)
-[![Email](https://img.shields.io/badge/Gmail-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-anshikamishra.25000-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshikamishra.25000@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com)
 
 </div>
@@ -258,7 +342,7 @@ An AI-driven **health analytics platform** providing personalized wellness insig
 
 <br/>
 
-⭐ **If any of my projects helped or inspired you, a star means a lot!** ⭐
+⭐ **If any of my projects helped or inspired you, a star goes a long way!** ⭐
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
 
