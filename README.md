@@ -326,7 +326,7 @@ Automated price segmentation across **157 retail segments × 3 channels** — re
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-10anshika-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/10anshika)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshika%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshika-mishra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshika%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshika-mishra-2407a92a3/)
 [![Email](https://img.shields.io/badge/Gmail-anshikamishra.25000-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshikamishra.25000@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com)
 
