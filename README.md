@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Anshika%20Mishra&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Builder&descAlignY=58&descSize=18&descColor=c9d1d9" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=750&lines=B.Sc.+Data+Science+%40+SPPU+%7C+CGPA+8.61;Ex+Data+Science+Intern+%40+Ernst+%26+Young+LLP;Time-Series+%7C+NLP+%7C+Multi-Agent+AI+Systems;Building+production-grade+ML+pipelines+%F0%9F%9A%80;Unsupervised+Learning+%3C3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=750&lines=Data+Science+%40+SPPU+%7C+CGPA+8.61;Ex+Data+Science+Intern+%40+Ernst+%26+Young+LLP;Time-Series+%7C+NLP+%7C+Multi-Agent+AI+Systems;Building+production-grade+ML+pipelines+%F0%9F%9A%80;Unsupervised+Learning+%3C3)](https://git.io/typing-svg)
 
 <br/>
 
