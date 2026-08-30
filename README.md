@@ -29,7 +29,8 @@ class AnshikaMishra:
     pronouns    = "she/her"
     location    = "Pune, Maharashtra"
     university  = "Savitribai Phule Pune University (SPPU)"
-    degree      = "B.Sc. Data Science  |  CGPA: 8.61 / 10"
+    degree      = "NMIMS NSoMASA MSc Applied Statistics and Analytics"
+                  "B.Sc. Data Science  |  CGPA: 8.61 / 10"
     email       = "anshikamishra.25000@gmail.com"
 
     experience  = [
