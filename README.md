@@ -30,7 +30,7 @@ class AnshikaMishra:
     location    = "Pune, Maharashtra"
     university  = "Savitribai Phule Pune University (SPPU)"
     degree      = "NMIMS NSoMASA MSc Applied Statistics and Analytics"
-                  "B.Sc. Data Science  |  CGPA: 8.61 / 10"
+                  "B.Sc. Data Science  |  CGPA: 8.83 / 10"
     email       = "anshikamishra.25000@gmail.com"
 
     experience  = [
